@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Release\) contains files shared from another project (SFML_deneme.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  deneme.cpp
+  Game.cpp
+C:\Users\ADNAN CAN\Desktop\OOP\Matrix_Hüner_OOP_Project\Game.cpp(149,22): warning C4244: 'argument': conversion from 'float' to 'sf::Int32', possible loss of data
+  main.cpp
+  Mario.cpp
+  Object.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 134 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Matrix_Hüner_OOP_Project.vcxproj -> C:\Users\ADNAN CAN\Desktop\OOP\Matrix_Hüner_OOP_Project\x64\Release\Matrix_Hüner_OOP_Project.exe

@@ -1,0 +1,3 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Ara dizin (x64\Debug\) başka bir projeden (SFML_deneme.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  main.cpp
+  Matrix_Hüner_OOP_Project.vcxproj -> C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\x64\Debug\Matrix_Hüner_OOP_Project.exe

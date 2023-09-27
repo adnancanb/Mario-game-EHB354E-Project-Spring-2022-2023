@@ -1,0 +1,23 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (SFML_deneme.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  Brick.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  Game.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  main.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  Mario.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Mario.cpp(1,1): warning C4335: Mac dosya biçimi algılandı: lütfen kaynak dosyayı DOS veya UNIX biçimine dönüştürün
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  Object.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  Pipe.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  PipeFlipped.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  SPipe.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  SPipeFlipped.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  Turtle.cpp
+C:\Users\myesi\Desktop\Matrix_Hüner_OOP_Project\Common.h(2,10): fatal  error C1083: içerme dosyası açılamıyor: 'SFML/Window.hpp': No such file or directory
+  Kod Üretiliyor...
