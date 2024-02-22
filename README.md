@@ -1,4 +1,9 @@
 # Mario-game-EHB354E-Project-Spring-2022-2023
+
+Team: Adnan Can Büyükşirin
+      Efe Mert Çırpar
+
+
 The project's objective is to create a single-person Mario game in which the player attempts to defeat every turtle while racking up as many points as possible. The Project makes use of the SFML library.
 
 The SFML's "Graphics" and "Window" modules are used. For the game to run properly, all the dependencies must be added.
